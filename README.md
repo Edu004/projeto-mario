@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img alt="Demonstração do projeto" title="#Demonstração do projeto" src="./imagens/banner.PNG" />
+  <img alt="Demonstração do projeto"  src="./banner.PNG" />
 </h1>
 
 ### 🛠 Tecnologias
